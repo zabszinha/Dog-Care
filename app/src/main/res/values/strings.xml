@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MeuAppTurma3</string>
+    <string name="entrar">Entrar</string>
+    <string name="senha">Digite a sua senha</string>
+    <string name="senha_confirma">Confirme a sua senha</string>
+    <string name="digite_o_seu_email">digite o seu email</string>
+    <string name="cadastrar">CADASTRAR</string>
+    <!-- Strings used for fragments for navigation -->
+
+</resources>
